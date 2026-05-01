@@ -1,0 +1,24 @@
+{
+  "_categories": {
+    "recipes": { "display": "Recipes", "order": 1 },
+    "decisions": { "display": "Decisions", "order": 2 },
+    "patterns": { "display": "Patterns", "order": 3 },
+    "anti-patterns": { "display": "Anti-Patterns", "order": 4 }
+  },
+  "recipes": [
+    {
+      "slug": "framer-mobile-compaction",
+      "title": "Framer Mobile Compaction",
+      "dek": "A repeatable technique for cutting mobile scroll length 15-42% on Framer sites without removing content. Section padding compression, hide-vs-compact decisions, 2-up grid breakpoints.",
+      "date": "2026-05-01",
+      "updated": "2026-05-01",
+      "category": "recipes",
+      "order": 1,
+      "tags": ["framer", "mobile", "design-system", "breakpoints"],
+      "applies-to": ["framer", "generic"]
+    }
+  ],
+  "decisions": [],
+  "patterns": [],
+  "anti-patterns": []
+}
