@@ -1,12 +1,15 @@
 ---
 title: "Framer Mobile Compaction"
 slug: framer-mobile-compaction
+dek: "A repeatable technique for cutting mobile scroll length 15-42% on Framer sites without removing content. Section padding compression, hide-vs-compact decisions, 2-up grid breakpoints."
 public: true
 tags: [framer, mobile, design-system, breakpoints, compaction]
 applies-to: [framer, generic]
 created: 2026-05-01
 updated: 2026-05-01
 status: shipped
+order: 1
+category: recipes
 ---
 
 # Framer Mobile Compaction

@@ -1,9 +1,21 @@
 {
   "_categories": {
-    "recipes": { "display": "Recipes", "order": 1 },
-    "decisions": { "display": "Decisions", "order": 2 },
-    "patterns": { "display": "Patterns", "order": 3 },
-    "anti-patterns": { "display": "Anti-Patterns", "order": 4 }
+    "recipes": {
+      "display": "Recipes",
+      "order": 1
+    },
+    "decisions": {
+      "display": "Decisions",
+      "order": 2
+    },
+    "patterns": {
+      "display": "Patterns",
+      "order": 3
+    },
+    "anti-patterns": {
+      "display": "Anti-Patterns",
+      "order": 4
+    }
   },
   "recipes": [
     {
@@ -14,8 +26,17 @@
       "updated": "2026-05-01",
       "category": "recipes",
       "order": 1,
-      "tags": ["framer", "mobile", "design-system", "breakpoints"],
-      "applies-to": ["framer", "generic"]
+      "tags": [
+        "framer",
+        "mobile",
+        "design-system",
+        "breakpoints",
+        "compaction"
+      ],
+      "applies-to": [
+        "framer",
+        "generic"
+      ]
     }
   ],
   "decisions": [],
