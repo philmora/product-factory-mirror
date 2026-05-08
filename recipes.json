@@ -37,6 +37,28 @@
         "framer",
         "generic"
       ]
+    },
+    {
+      "slug": "og-card-generation",
+      "title": "Brand-correct OpenGraph cards for a Framer + GitHub-mirror site",
+      "dek": "Generate per-surface OG cards from a single HTML template, host on raw.githubusercontent.com, bind via Framer CMS Variables. Static-HTML output that bot scrapers can read without JS.",
+      "date": "2026-05-08",
+      "updated": "2026-05-08",
+      "category": "recipes",
+      "order": 2,
+      "tags": [
+        "framer",
+        "opengraph",
+        "seo",
+        "puppeteer",
+        "github-mirror",
+        "design-system"
+      ],
+      "applies-to": [
+        "framer-sites",
+        "github-mirror-content-sites",
+        "terminal-aurora-design-system"
+      ]
     }
   ],
   "decisions": [],
